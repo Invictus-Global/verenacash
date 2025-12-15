@@ -1,0 +1,16 @@
+{
+  "name": "VerenaCash-Beta",
+  "symbol": "VCASHB",
+  "description": "VerenaCash Beta Token on Solana Devnet",
+  "image": "https://raw.githubusercontent.com/verenacash/metadata/main/vcashb-logo.png",
+  "external_url": "https://verenacash.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/verenacash/metadata/main/vcashb-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
