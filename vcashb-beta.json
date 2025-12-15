@@ -2,13 +2,13 @@
   "name": "VerenaCash-Beta",
   "symbol": "VCASHB",
   "description": "VerenaCash Beta Token on Solana Devnet",
-  "image": "https://raw.githubusercontent.com/verenacash/metadata/main/vcashb-logo.png",
+  "image": "https://raw.githubusercontent.com/Invictus-Global/verenacash/refs/heads/main/verena.png",
   "external_url": "https://verena.ai",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/verenacash/metadata/main/vcashb-logo.png",
+        "uri": "https://raw.githubusercontent.com/Invictus-Global/verenacash/refs/heads/main/verena.png",
         "type": "image/png"
       }
     ]
